@@ -1,4 +1,4 @@
-# This script find message-id who have SUBSTR in body
+# This script find message-id's who have SUBSTR in body
 
 - Set correct configs. (Queue queue.test must be empty)
 - Run script
